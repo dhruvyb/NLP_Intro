@@ -4,7 +4,8 @@ Solution to Task 37
 Download python file and requirements file to directory on your local drive.
 change the directory on your terminal console to the above directory
 
-type the follwing into the command line
+type the follwing into the command line:
+
 pip install -r requirements.txt
 
 run python file
